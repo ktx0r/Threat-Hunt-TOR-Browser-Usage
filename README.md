@@ -1,9 +1,7 @@
 # Threat Hunt Report // Unauthorized T<img height="50" alt="onion" src="https://github.com/user-attachments/assets/8fed5042-f72a-4d83-bf2c-576e7a530858" />R Usage
-
-**[View a pdf version of this report.](assets/Threat-Hunt-Report_ Unauthortized-TOR-Usage.pdf)**
-
-
 **Detection of Unauthorized TOR Browser Installation and Use on Workstation: ws-1650**
+
+**[View a pdf version of this report.](assets/Threat-Hunt-Report_Unauthortized-TOR-Usage.pdf)**
 
 ## Scenario
 
